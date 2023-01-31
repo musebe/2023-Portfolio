@@ -1,9 +1,15 @@
-import Image from "next/legacy/image";
-import Link from "next/link";
+import { Portfolio } from '@interfaces/Portfolio';
+import Image from 'next/legacy/image';
+import Link from 'next/link';
+import { FunctionComponent } from 'react';
 
-export  const PortfolioItem = ({portfolio}: any) => {
+type Props = {
+  portfolio: Portfolio;
+};
+
+export const PortfolioItem: FunctionComponent<Props> = ({ portfolio }) => {
   return (
-    <div  className='group relative'>
+    <div className='group relative'>
       <div className='relative h-80 w-full overflow-hidden rounded-lg bg-white group-hover:opacity-75 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1'>
         <Image
           layout='fill'
@@ -26,5 +32,3 @@ export  const PortfolioItem = ({portfolio}: any) => {
     </div>
   );
 };
-
-
