@@ -15,6 +15,7 @@ export interface MarkdownContent {
 }
 
 export type ContentItemName = keyof MarkdownContent;
+
 export interface SearchContent extends Partial<MarkdownItem> {
   category: ContentItemName;
 }

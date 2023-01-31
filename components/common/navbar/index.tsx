@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 import Link from 'next/link';
-import Image from "next/legacy/image";
+import Image from 'next/legacy/image';
 import { Popover, Transition } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import { navigation } from './navigation';
@@ -75,13 +75,9 @@ const Navbar = () => {
             <div className='rounded-lg bg-white shadow-md ring-1 ring-black ring-opacity-5'>
               <div className='flex items-center justify-between px-5 pt-4'>
                 <div>
-                  <Image
-                    height={20}
-                    width={20}
-                    className='h-8 w-auto'
-                    src='https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600'
-                    alt=''
-                  />
+                  <h1 className=' font-extrabold text-blue-600 dark:text-blue-500 font-serif hover:font-mono text-2xl'>
+                    Musebecodes
+                  </h1>
                 </div>
                 <div className='-mr-2'>
                   <Popover.Button className='inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500'>
@@ -106,9 +102,7 @@ const Navbar = () => {
               <a
                 href='#'
                 className='block w-full bg-gray-50 px-5 py-3 text-center font-medium text-indigo-600 hover:bg-gray-100'
-              >
-                Log in
-              </a>
+              ></a>
             </div>
           </Popover.Panel>
         </Transition>

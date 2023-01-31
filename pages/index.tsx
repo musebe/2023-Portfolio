@@ -28,10 +28,10 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
 
       <br></br>
 
-      <h2 className='text-2xl font-bold tracking-tight text-gray-900'>
-        Portfolios
+      <h2 className='text-2xl font-bold tracking-tight text-blue-900'>
+       
         <Link legacyBehavior href='/portfolios'>
-          <a className='text-sm ml-1 text-indigo-600'>(See All)</a>
+          Work Experience / Portfolio Projects 
         </Link>
       </h2>
       <PortfolioList portfolios={portfolios} />
