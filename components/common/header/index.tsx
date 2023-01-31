@@ -10,10 +10,10 @@ const Header = () => {
           <span className='block xl:inline'>Teach</span>
         </h1>
         <p className='mt-3 text-base text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0'>
-          I'm Eugene Musebe, am a fullstack software craftsman dedicated to the principles of
-          Learn. Build. Teach. Constantly honing my skills, I build innovative
-          solutions and share my knowledge to uplift the tech community. Join me
-          on my journey of growth and impact.
+          I&apos;m Eugene Musebe, am a fullstack software craftsman dedicated to
+          the principles of Learn. Build. Teach. Constantly honing my skills, I
+          build innovative solutions and share my knowledge to uplift the tech
+          community. Join me on my journey of growth and impact.
         </p>
         <div className='mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start'>
           <div className='rounded-md shadow'>
