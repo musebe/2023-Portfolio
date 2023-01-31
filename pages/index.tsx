@@ -29,9 +29,8 @@ const Home: NextPage<Props> = ({ blogs, portfolios }) => {
       <br></br>
 
       <h2 className='text-2xl font-bold tracking-tight text-blue-900'>
-       
         <Link legacyBehavior href='/portfolios'>
-          Work Experience / Portfolio Projects 
+          Work Experience / Portfolio Projects
         </Link>
       </h2>
       <PortfolioList portfolios={portfolios} />
@@ -45,15 +44,15 @@ export const getStaticProps: GetStaticProps = () => {
   //console.log(blogs);
   //console.log(portfolios);
 
- const content = {
-   blogs,
-   portfolios,
- };
+  const content = {
+    blogs,
+    portfolios,
+  };
 
- saveSearchData(content);
+  saveSearchData(content);
 
   return {
-    props: { blogs, portfolios },
+    props: { blogs: blogs.slice(0, 4), portfolios: portfolios.slice(0, 4) },
   };
 };
 
