@@ -5,6 +5,8 @@ import { PortfolioList } from '@components/portfolios';
 import { BaseLayout } from '@components/layouts';
 import { getBlogs } from '@lib/blogs';
 import { Blog } from '@interfaces/Blog';
+import { saveSearchData } from '@lib/md';
+
 
 type Props = {
   blogs: Blog[];
@@ -38,6 +40,7 @@ const Home: NextPage<Props> = ({ blogs }) => {
 export const getStaticProps: GetStaticProps = () => {
   const blogs = getBlogs();
   //console.log(blogs);
+  saveSearchData(blogs);
 
   return {
     props: { blogs },
