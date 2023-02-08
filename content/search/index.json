@@ -1,14 +1,14 @@
 [
   {
-    "slug": "markdown-full-example",
-    "title": "Markdown Extensive Example",
-    "description": "Learn how to write markdown",
+    "slug": "custom-react-hooks",
+    "title": "Boost Your React Development with These Custom Hooks",
+    "description": "Simplify your React code with these custom hooks.",
     "category": "blogs"
   },
   {
     "slug": "nextjs-pwa-web-app",
     "title": "Building a Progressive Web App (PWA) with Next.js",
-    "description": "Learn how to build a PWA using Next.js, a popular React-based framework for building fast and scalable web applications",
+    "description": "Building a Progressive Web App with Next.js.",
     "category": "blogs"
   },
   {
