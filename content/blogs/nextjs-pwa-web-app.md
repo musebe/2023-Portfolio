@@ -4,7 +4,7 @@ description: Building a Progressive Web App with Next.js.
 author: Eugene Musebe
 authorImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675688988/DSC_8730_2.jpg
 coverImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675688157/eng---progressive-web-apps.png
-date: '2022-02-06'
+date: '2023-02-06'
 ---
 
 

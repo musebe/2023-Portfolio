@@ -6,15 +6,21 @@
     "category": "blogs"
   },
   {
+    "slug": "nextjs-pwa-web-app",
+    "title": "Building a Progressive Web App (PWA) with Next.js",
+    "description": "Building a Progressive Web App with Next.js.",
+    "category": "blogs"
+  },
+  {
     "slug": "custom-react-hooks",
     "title": "Boost Your React Development with These Custom Hooks",
     "description": "Simplify your React code with these custom hooks.",
     "category": "blogs"
   },
   {
-    "slug": "nextjs-pwa-web-app",
-    "title": "Building a Progressive Web App (PWA) with Next.js",
-    "description": "Building a Progressive Web App with Next.js.",
+    "slug": "authentication-in-nextjs",
+    "title": "Integrating Authentication in Nextjs Applications using Next-Auth",
+    "description": "Integrating authentication into Nextjs applications using Next-Auth.",
     "category": "blogs"
   },
   {

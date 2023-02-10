@@ -4,7 +4,7 @@ description: The Ultimate Guide to Content Delivery Networks.
 author: Eugene Musebe
 authorImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675688988/DSC_8730_2.jpg
 coverImage: https://res.cloudinary.com/hackit-africa/image/upload/v1676034402/CDN_blog_2_dcSk_ct4N.jpg
-date: '2022-02-11'
+date: '2023-02-11'
 ---
 
 As the internet continues to evolve, it's becoming increasingly important to ensure that your website's content is delivered quickly and reliably to your users. One solution to this challenge is a content delivery network (CDN).
