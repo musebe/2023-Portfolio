@@ -1,5 +1,11 @@
 [
   {
+    "slug": "cdn-explained",
+    "title": "CDN Decoded",
+    "description": "The Ultimate Guide to Content Delivery Networks.",
+    "category": "blogs"
+  },
+  {
     "slug": "custom-react-hooks",
     "title": "Boost Your React Development with These Custom Hooks",
     "description": "Simplify your React code with these custom hooks.",
