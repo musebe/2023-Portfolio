@@ -1,5 +1,11 @@
 [
   {
+    "slug": "web-accessibility",
+    "title": "Making Web Applications Accessible",
+    "description": "Importance, Benefits, and Tips for Web Accessibility.",
+    "category": "blogs"
+  },
+  {
     "slug": "cdn-explained",
     "title": "CDN Decoded",
     "description": "The Ultimate Guide to Content Delivery Networks.",
@@ -12,21 +18,21 @@
     "category": "blogs"
   },
   {
-    "slug": "custom-react-hooks",
-    "title": "Boost Your React Development with These Custom Hooks",
-    "description": "Simplify your React code with these custom hooks.",
-    "category": "blogs"
-  },
-  {
     "slug": "authentication-in-nextjs",
     "title": "Integrating Authentication in Nextjs Applications using Next-Auth",
     "description": "Integrating authentication into Nextjs applications using Next-Auth.",
     "category": "blogs"
   },
   {
+    "slug": "custom-react-hooks",
+    "title": "Boost Your React Development with These Custom Hooks",
+    "description": "Simplify your React code with these custom hooks.",
+    "category": "blogs"
+  },
+  {
     "slug": "software-engineer-saadatech",
     "title": "software-engineer-Saadatech",
-    "description": "Javascript & Devops Software Engineer",
+    "description": "Technical Lead / Javascript & Devops Software Engineer",
     "category": "portfolios"
   }
 ]
