@@ -1,7 +1,7 @@
 [
   {
     "slug": "web-accessibility",
-    "title": "Making Web Applications Accessible",
+    "title": "Making Web Applications Accessible (A11y)",
     "description": "Importance, Benefits, and Tips for Web Accessibility.",
     "category": "blogs"
   },
@@ -28,6 +28,12 @@
     "title": "Boost Your React Development with These Custom Hooks",
     "description": "Simplify your React code with these custom hooks.",
     "category": "blogs"
+  },
+  {
+    "slug": "devrel-cloudinary",
+    "title": "Developer-Advocate-Cloudinary (Contract)",
+    "description": "Technical Lead / Javascript & Devops Software Engineer",
+    "category": "portfolios"
   },
   {
     "slug": "software-engineer-saadatech",
