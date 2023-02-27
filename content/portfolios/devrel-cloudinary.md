@@ -1,6 +1,6 @@
 ---
 title: Developer-Advocate-Cloudinary (Contract)
-description: Technical Lead / Javascript & Devops Software Engineer
+description: Technical Writer / Developer Advocate
 employee: Eugene Musebe
 employmentTime: 2
 employeeImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675688988/DSC_8730_2.jpg
