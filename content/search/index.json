@@ -1,8 +1,20 @@
 [
   {
+    "slug": "devrel-content-calender",
+    "title": "The Art of Developer Advocacy",
+    "description": "A Comprehensive Guide to Curating a Technical Content Calendar.",
+    "category": "blogs"
+  },
+  {
     "slug": "web-accessibility",
     "title": "Making Web Applications Accessible (A11y)",
     "description": "Importance, Benefits, and Tips for Web Accessibility.",
+    "category": "blogs"
+  },
+  {
+    "slug": "composable-achitecture",
+    "title": "Composable Architecture",
+    "description": "Benefits, Challenges, and Its Role in Modern Software Development.",
     "category": "blogs"
   },
   {
@@ -32,7 +44,7 @@
   {
     "slug": "devrel-cloudinary",
     "title": "Developer-Advocate-Cloudinary (Contract)",
-    "description": "Technical Lead / Javascript & Devops Software Engineer",
+    "description": "Technical Writer / Developer Advocate",
     "category": "portfolios"
   },
   {
