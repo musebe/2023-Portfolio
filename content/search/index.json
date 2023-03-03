@@ -36,6 +36,12 @@
     "category": "blogs"
   },
   {
+    "slug": "severless-architecture",
+    "title": "The Power of Serverless Architecture",
+    "description": "Building a Real-Time Chat Application for Scalability, Fault-Tolerance, and Reduced Overhead.",
+    "category": "blogs"
+  },
+  {
     "slug": "custom-react-hooks",
     "title": "Boost Your React Development with These Custom Hooks",
     "description": "Simplify your React code with these custom hooks.",

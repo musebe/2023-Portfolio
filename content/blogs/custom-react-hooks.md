@@ -4,7 +4,7 @@ description: Simplify your React code with these custom hooks.
 author: Eugene Musebe
 authorImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675688988/DSC_8730_2.jpg
 coverImage: https://res.cloudinary.com/hackit-africa/image/upload/v1675861996/maxim-zhavoronko-nu8rym-lx6M-unsplash-1.jpg
-date: '2022-02-08'
+date: '2023-02-08'
 ---
 
 # Introduction
