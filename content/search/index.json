@@ -1,5 +1,11 @@
 [
   {
+    "slug": "composable-headless-comparison",
+    "title": "Headless vs Composable Architecture",
+    "description": "Understanding the Differences, Advantages, Disadvantages, and their Role in the MACH Architecture.",
+    "category": "blogs"
+  },
+  {
     "slug": "devrel-content-calender",
     "title": "The Art of Developer Advocacy",
     "description": "A Comprehensive Guide to Curating a Technical Content Calendar.",
@@ -24,6 +30,12 @@
     "category": "blogs"
   },
   {
+    "slug": "custom-react-hooks",
+    "title": "Boost Your React Development with These Custom Hooks",
+    "description": "Simplify your React code with these custom hooks.",
+    "category": "blogs"
+  },
+  {
     "slug": "nextjs-pwa-web-app",
     "title": "Building a Progressive Web App (PWA) with Next.js",
     "description": "Building a Progressive Web App with Next.js.",
@@ -42,9 +54,9 @@
     "category": "blogs"
   },
   {
-    "slug": "custom-react-hooks",
-    "title": "Boost Your React Development with These Custom Hooks",
-    "description": "Simplify your React code with these custom hooks.",
+    "slug": "devrel-explained",
+    "title": "Unlocking the Power of Developer Relations",
+    "description": "A Guide to the Work of a Developer Advocate.",
     "category": "blogs"
   },
   {
