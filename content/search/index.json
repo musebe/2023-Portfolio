@@ -1,5 +1,11 @@
 [
   {
+    "slug": "company-community-content",
+    "title": "Developer Relations: Comparing the Impact of Community and Company Content",
+    "description": "This blog post explores the impact of community and company content in developer relations.",
+    "category": "blogs"
+  },
+  {
     "slug": "composable-headless-comparison",
     "title": "Headless vs Composable Architecture",
     "description": "Understanding the Differences, Advantages, Disadvantages, and their Role in the MACH Architecture.",
