@@ -1,5 +1,11 @@
 [
   {
+    "slug": "clerk-nextjs",
+    "title": "Simplifying Authentication in Next.js     Applications with Clerk",
+    "description": "Integrating authentication into Nextjs applications using Clerk.",
+    "category": "blogs"
+  },
+  {
     "slug": "company-community-content",
     "title": "Developer Relations: Comparing the Impact of Community and Company Content",
     "description": "This blog post explores the impact of community and company content in developer relations.",

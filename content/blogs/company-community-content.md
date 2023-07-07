@@ -91,7 +91,7 @@ Encouraging community content can be challenging. Here are some strategies that 
 In conclusion, both community content and company content have their advantages and disadvantages. Community content can be more authentic and engaging, but quality control can be a challenge. Company content can be more consistent and of higher quality, but may lack authenticity and credibility.
 
 Generating high-quality community content is critical to building a strong developer community. Encouraging participation, providing guidance, curating content, fostering collaboration, and recognizing contributions are all strategies that can help to encourage community content creation.
-
+l
 Ultimately, the most effective content strategy will likely involve a combination of community content and company content. Finding the right balance between the two and leveraging the strengths of each can help to build a strong and engaged developer community around your company's technology.
 
 
